@@ -75,6 +75,50 @@
 
 ### 💼 Featured Projects
 
+#### 🤖 Machine Learning & Data Science
+<div align="left">
+  
+  **📊 Predictive Analytics Dashboard**
+  - Built a comprehensive data analysis and prediction system using Python, Pandas, and Scikit-learn
+  - Implemented multiple ML models including Linear Regression, Random Forest, and Neural Networks
+  - Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  
+  **🧠 Image Classification Model**
+  - Developed a deep learning model for image classification using PyTorch
+  - Achieved 95%+ accuracy on test dataset with custom CNN architecture
+  - Technologies: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+#### 💻 Web Development
+<div align="left">
+  
+  **🌐 Full-Stack E-Commerce Platform**
+  - Created a responsive e-commerce website with React frontend and Node.js backend
+  - Integrated payment gateway and real-time inventory management
+  - Technologies: ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  
+  **📝 Content Management System**
+  - Built a CMS using Django with admin panel and user authentication
+  - Implemented RESTful API for content management
+  - Technologies: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+#### 📱 Mobile Applications
+<div align="left">
+  
+  **📲 Cross-Platform Mobile App**
+  - Developed a feature-rich mobile application using Flutter
+  - Integrated Firebase for real-time data synchronization and authentication
+  - Technologies: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  
+  **🎯 Task Management App**
+  - Built a productivity app with React Native featuring offline support
+  - Implemented push notifications and task scheduling
+  - Technologies: ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
 
 ---
 ---
