@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Arsalan+Durrani!;" />
 </div>
 
+---
+
+### 👨‍💻 About Me
+I am a **Data Science student at the Institute of Management Sciences, Peshawar**, with practical experience in **web development**, **mobile application development**, and **machine learning projects**. I enjoy building solutions that bridge **data-driven insights** with **real-world applications**, and I am continuously learning new technologies to grow both **professionally** and **financially**.
 
 - 🎓 Currently pursuing **Data Science** at IMSciences, Peshawar
 - 💻 Experienced in **Web Development** and **Mobile App Development**
