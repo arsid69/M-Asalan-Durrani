@@ -79,6 +79,24 @@ I am a **Data Science student at the Institute of Management Sciences, Peshawar*
 
 ### 💼 Featured Projects
 
+| Project | Description | Repo |
+|---------|-------------|------|
+| **LinguaVoice × AgroScan** | Multilingual voice AI for Pakistani farmers — ResNet50 crop disease detection (52 classes, 93.3% accuracy), TinyLlama LoRA fine-tuned RAG, FastAPI + Next.js 14. | [arsid69/LuingaVoice-X-Agroscan](https://github.com/arsid69/LuingaVoice-X-Agroscan) |
+| **AgroScan** | Standalone crop disease detector using ResNet50 trained on 20,638 PlantVillage images. Grad-CAM visual explanations + weather-based spray recommendations. | [arsid69/Agroscan](https://github.com/arsid69/Agroscan) |
+| **IlmAI (ExamAI)** | NotebookLM-inspired AI study companion for Pakistani universities. Upload lecture slides → get Mind Maps, Flashcards, Quizzes, Audio Overview & more via Gemini 1.5 Flash. | [arsid69/app](https://github.com/arsid69/app) |
+| **MediTrack Dashboard** | Healthcare analytics platform with XGBoost predictions, SHAP explanations, and a 7-tab Streamlit UI. Multi-city Pakistani medical dataset with SQLite backend. | [arsid69/medi-track](https://github.com/arsid69/medi-track) |
+| **Cosmetics Website** | Full-stack cosmetics e-commerce website with product listings, cart, and checkout flow. Clean UI built for real-world retail use. | [arsid69/Cosmetics-Website](https://github.com/arsid69/Cosmetics-Website) |
+| **DS Week 1 — Marks Calculator** | Automated student marks calculator with grade analysis and summary statistics. Built as part of the DawoodTech Data Science internship week 1 deliverable. | [arsid69/ds-week1-marks-calculator](https://github.com/arsid69/ds-week1-marks-calculator) |
+| **File System Project** | Custom file system simulation implementing core OS-level operations — directory management, file I/O, and permission handling in C++. | [arsid69/file-system-project](https://github.com/arsid69/file-system-project) |
+| **Fraud Detection** | End-to-end fraud detection ML pipeline with ensemble models, feature engineering on transactional data, and a REST API for real-time inference. | [arsid69/fraud-det](https://github.com/arsid69/fraud-det) |
+| **Fraud Detection v2** | Upgraded fraud detection system with additional model benchmarking, improved preprocessing pipeline, and production-ready API. | [arsid69/fraud-detection](https://github.com/arsid69/fraud-detection) |
+| **CodeAlpha — Sales Prediction** | Sales forecasting model built during the CodeAlpha internship. Predicts future revenue using regression techniques on historical sales data. | [arsid69/CodeAlpha_SalesPrediction](https://github.com/arsid69/CodeAlpha_SalesPrediction) |
+| **CodeAlpha — Car Price Prediction** | Car price estimator using regression and feature engineering on automotive datasets. Built during the CodeAlpha ML internship. | [arsid69/CodeAlpha_CarPricePrediction](https://github.com/arsid69/CodeAlpha_CarPricePrediction) |
+| **CodeAlpha — Unemployment Analysis** | Data analysis and visualization of unemployment trends using pandas and matplotlib. Submitted as a CodeAlpha internship task. | [arsid69/CodeAlpha_UnemploymentAnalysis](https://github.com/arsid69/CodeAlpha_UnemploymentAnalysis) |
+| **CodeAlpha — Iris Classification** | Classic ML classification on the Iris dataset — comparison of multiple classifiers with accuracy benchmarking and confusion matrix visualization. | [arsid69/CodeAlpha_IrisFlowerClassification](https://github.com/arsid69/CodeAlpha_IrisFlowerClassification) |
+| **M-Arsalan-Durrani (Profile)** | GitHub profile README with animated contribution graph, featured projects, tech stack badges, and social connect links. | [arsid69/M-Asalan-Durrani](https://github.com/arsid69/M-Asalan-Durrani) |
+
+
 
 ---
 ---
